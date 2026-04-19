@@ -3,3 +3,21 @@ h3
     color:black;
 
 }
+
+#fotologo
+{
+    width: 450px; 
+    height: 450px;
+}
+
+#fotoanimada
+{
+    width: 350px; 
+    height: 450px;
+}
+
+.bordes
+{
+    border:2px solid goldenrod;
+}
+
