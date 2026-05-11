@@ -10,6 +10,7 @@
   font-family: "Lilita One", sans-serif;
   font-weight: 400;
   font-style: normal;
+
 }
 
 
@@ -52,6 +53,7 @@ color: #011d1d;
     background-color: #549db9;
     padding: 8px;
     width: 100%;
+  
 }
 
 #textoLogo
@@ -61,7 +63,7 @@ color: #011d1d;
     color: #025c5c;
     border: 10px solid  rgb(16, 82, 121) ;
     font-size: 50px;
-  
+   
 }
 
 

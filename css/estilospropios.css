@@ -5,9 +5,10 @@ h2
 
 #menu
 {
-background-color:#549db9;
+padding: 5px;
+background-color:#062b3f;
 text-align: center;
-
+box-shadow: 20px;
 }
 
 #menu li 
@@ -15,8 +16,9 @@ text-align: center;
 
 list-style-type: none;
 display: inline-block;
-font: bold 80px;
-padding: 15px;
+font: bold 90px;
+padding-left: 50px;
+
 
 }
 
@@ -25,4 +27,4 @@ a
 text-decoration: none;
 color:white;
 
-}
+}   
