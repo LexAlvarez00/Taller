@@ -48,7 +48,7 @@ color: #011d1d;
 
 #cajaLogo
 {
-    border: 3px solid  rgb(16, 82, 121) ;
+    border: 3px solid  #105279 ;
     background-color: #549db9;
     padding: 8px;
     width: 100%;
@@ -63,3 +63,7 @@ color: #011d1d;
     font-size: 50px;
   
 }
+
+
+
+

@@ -1,4 +1,28 @@
 h2
 {
-    color:blue;
+    color:rgb(6, 76, 122);
+}
+
+#menu
+{
+background-color:#549db9;
+text-align: center;
+
+}
+
+#menu li 
+{
+
+list-style-type: none;
+display: inline-block;
+font: bold 80px;
+padding: 15px;
+
+}
+
+a
+{
+text-decoration: none;
+color:white;
+
 }
